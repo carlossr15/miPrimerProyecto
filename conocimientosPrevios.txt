@@ -2,3 +2,4 @@ Conocimientos previos de programación:
  - Java
  - C++
  - HTML, CSS, PHP
+ - C
