@@ -1,0 +1,2 @@
+Mis objetivos del master:
+ - Mejorar mi manejo de herramientas como git y tecnologías como JS 
